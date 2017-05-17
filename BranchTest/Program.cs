@@ -15,6 +15,8 @@ namespace BranchTest
             Console.WriteLine("second br");
 
             Console.WriteLine("Third br");
+
+            Console.WriteLine("Fourth");
         }
     }
 }
