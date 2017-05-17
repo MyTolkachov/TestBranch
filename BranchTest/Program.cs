@@ -13,6 +13,8 @@ namespace BranchTest
             Console.WriteLine("Master ");
 
             Console.WriteLine("second br");
+
+            Console.WriteLine("Third br");
         }
     }
 }
