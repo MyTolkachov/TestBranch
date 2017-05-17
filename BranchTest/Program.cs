@@ -10,7 +10,7 @@ namespace BranchTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Master");
+            Console.WriteLine("Master ");
         }
     }
 }
